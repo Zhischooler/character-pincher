@@ -58,7 +58,12 @@
 
     <aside class="panel">
       <div class="panel-section">
-        <div class="section-title">人物</div>
+        <div class="section-title">
+          <span>人物</span>
+          <button class="upload-btn" id="uploadBtn" type="button">＋ 上传图片</button>
+        </div>
+        <input id="imageUpload" type="file" accept="image/*" hidden>
+        <div class="upload-tip">支持 JPG、PNG、WebP，本地图片直接进入编辑区</div>
         <div class="character-list" id="characterList"></div>
       </div>
 

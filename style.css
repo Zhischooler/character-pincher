@@ -19,4 +19,3 @@ body{margin:0;min-height:100vh;background:radial-gradient(circle at 15% 10%,#ffe
 footer{padding:0 0 26px;text-align:center;color:var(--muted);font-size:.72rem}
 @media(max-width:980px){.app-shell{grid-template-columns:1fr}.panel{display:grid;grid-template-columns:1fr 1fr;gap:8px}.panel-section{margin:0}.help{grid-column:1/-1}.canvas-wrap{height:58vh;min-height:420px}} 
 @media(max-width:620px){.topbar{height:auto;padding:13px 4vw}.brand-subtitle{display:none}.brand-icon{width:42px;height:42px}.top-actions .ghost-btn,.top-actions .icon-btn{display:none}.top-actions .primary-btn{flex:1}.panel{grid-template-columns:1fr}.character-list{grid-template-columns:1fr}.canvas-wrap{height:52vh;min-height:360px}} 
-
