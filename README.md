@@ -1,4 +1,4 @@
-# 人物捏捏乐
+# 人物捏捏乐 (Character Pincher)
 
 一个纯前端、可部署到 GitHub Pages 的人物捏脸小游戏。
 
